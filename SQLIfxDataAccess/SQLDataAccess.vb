@@ -5,7 +5,7 @@ Public Class SQLDataAccess
 
     ' -------------------------------------------------
     ' Function OpenData
-    '
+    '  
     ' Realiza la inicialización de opbjetos de un DataReader
     '
     ' Valor Devuelto:
